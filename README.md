@@ -97,3 +97,19 @@ Modifying protected files will result in automatic academic integrity violation
 Implementation (70%): Function correctness, file operations, error handling
 
 Interview (30%): Code explanation and live coding challenge
+
+# Concept
+This story is about someone who thrives to be an adventurer, but they are tasked with what a lot of experienced adventurers failed to do, deliver a dragon to the apex dragon's lair. Because they're so underqualified, they're "compensated" with high level gear. 
+
+# Design Choice
+I made the calculations for the stats decently low because I really wanted to hammer in the fact that the player is not PHYSICALLY qualified yet, but they have the skills to evolve past the previous attempts
+
+# Bonus Features
+I made a "chosen one" feature where if the 2 random int rolls were the same, you got a boost in all your stats and an extra 200 gold on your journey.
+
+# AI Assistance
+There were times that VSC sometimes tried to autofill the code, so my files code took some aspects from the autofill, but wasn't directly just pasted.
+I did use AI in my display function to fix it because when I would test the function an error would always pop up, it modified my create character function along with it.
+
+# Directions
+when you run the functions, put any none number in quotations
